@@ -1,3 +1,2 @@
-cd ..
 CALL %cd%\venv\Scripts\activate.bat
-python lookbusy\active_skype.py
+python active_skype.py
