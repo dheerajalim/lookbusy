@@ -1,0 +1,5 @@
+pymsgbox
+PyTweening>=1.0.1
+Pillow
+pyscreeze>=0.1.21
+pygetwindow>=0.0.5
